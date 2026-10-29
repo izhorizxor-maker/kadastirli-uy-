@@ -1,0 +1,6 @@
+{
+  "name": "E-Kadastr Nazorat",
+  "description": "Uy-joylarning kadastr holatini interaktiv sun'iy yo'ldosh xaritasi asosida elektron nazorat qilish tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
